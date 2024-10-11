@@ -11,7 +11,7 @@ React, Redux, React Hooks\
 Git, GitHub, GitLab\
 Webpack, Babel, ESLint\
 CSS preprocessors (Sass, Less)\
-Responsive web design, mobile-first approach\
+Responsive web design, mobile-first approach
 
 ***Опыт работы***
 ----------------
@@ -23,7 +23,7 @@ Responsive web design, mobile-first approach\
 Обслуживание и настройка комплекса систем охраны. Видеонаблюдения, охранных извещателей.\
 Системный администратор в Управление по делам ГО  и ЧС (2015-2022), \
 Управление сервером и сетевыми ресурсами, сайтом.\
-Обеспечение безопасности и стабильности системы.\
+Обеспечение безопасности и стабильности системы.
 
 ***Образование***
 ---------------

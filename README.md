@@ -31,9 +31,10 @@ Responsive web design, mobile-first approach
 -----------
 Procharity - Платформа интеллектуального волонтерства ProCharity объединяет благотворительные организации и профессионалов, готовых делиться своей экспертизой pro bono, написаная на React, Jest, Cypress.\
 ССылка на проект: https://github.com/ProCharity-Practicum \
+Ссылка на страницу: https://procharity.ru/
 Космический бургер - Платформа интеллектуального волонтерства ProCharity объединяет благотворительные организации и профессионалов, готовых делиться своей экспертизой pro bono, написаная на React\
 Ссылка на проект: https://github.com/hubduing/stellar-burger
-
+Ссылка на страницу: https://kuzovkin.info/
 ***Контакты***
 ------------
 Email: UralMana@yandex.ru\
